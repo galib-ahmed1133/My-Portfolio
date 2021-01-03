@@ -1,0 +1,26 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
+.coloringName{
+    color: orangered;
+}
+.home-content1{
+    width: 40%;
+    margin-left: 4%;
+    margin-top: 5%;
+    padding: 2%;
+    float: left;
+}
+.home-content2{
+    width: 40%;
+    margin-left: 4%;
+    padding: 2%;
+    float: left;
+}
+.home-content2 img{
+    width: 100%;
+}
